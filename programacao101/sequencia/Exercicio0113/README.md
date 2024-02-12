@@ -31,17 +31,7 @@ Para calcular a distância geodésica entre dois pontos na superfície da Terra,
 
 $$ d = 2r \arcsin\left(\sqrt{\sin^2\left(\frac{\Delta\phi}{2}\right) + \cos(\phi_1)\cos(\phi_2)\sin^2\left(\frac{\Delta\lambda}{2}\right)}\right) $$
 
-onde
-$$ \phi_1 $$
-e
-$$ \phi_2 $$
-são as latitudes dos pontos 1 e 2 em radianos,
-$$ \Delta\phi $$
-é a diferença entre as latitudes,
-$$ \Delta\lambda $$
-é a diferença entre as longitudes, e
-$$ r $$
-é o raio médio da Terra (aproximadamente 6371 km).
+onde ![equation](http://latex.codecogs.com/gif.latex?\phi_1) e ![phi_2](http://latex.codecogs.com/gif.latex?\phi_2) são as latitudes dos pontos 1 e 2 em radianos, ![delta_phi](http://latex.codecogs.com/gif.latex?\Delta\phi) é a diferença entre as latitudes, ![delta_lambda](http://latex.codecogs.com/gif.latex?\Delta\lambda) é a diferença entre as longitudes, e r é o raio médio da Terra (aproximadamente 6371 km).
 
 Em C#, você pode usar `Math.Sin()`, `Math.Cos()`, `Math.Asin()`, e `Math.Sqrt()` para realizar os cálculos trigonométricos e `double.Parse(Console.ReadLine())` para ler os números decimais.
 
@@ -66,7 +56,7 @@ Console.WriteLine($"A distância entre os pontos é de: {distance} km");
 
 ### Fontes
 
-(1) github.com. [Drone-simulator](https://github.com/n0bis/healthydrone/tree/30371878d7a76b22f588d0946abacedfac0efb9a/DroneSimulator.API%2FDroneSimulator.API%2FHelpers%2FLatLonSpherical.cs)
-(2) INPE. Calculadora de distância entre dois pontos geográficos. [INPE](https://www.dpi.inpe.br/calcula/)
-(3) Wikipedia. Haversine formula. [Wikipedia](https://en.wikipedia.org/wiki/Haversine_formula)
-(4) Stackoverflow. Haversine formula in C#. [Stackoverflow](https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula)
+- (1) github.com. [Drone-simulator](https://github.com/n0bis/healthydrone/tree/30371878d7a76b22f588d0946abacedfac0efb9a/DroneSimulator.API%2FDroneSimulator.API%2FHelpers%2FLatLonSpherical.cs)
+- (2) INPE. Calculadora de distância entre dois pontos geográficos. [INPE](https://www.dpi.inpe.br/calcula/)
+- (3) Wikipedia. Haversine formula. [Wikipedia](https://en.wikipedia.org/wiki/Haversine_formula)
+- (4) Stackoverflow. Haversine formula in C#. [Stackoverflow](https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula)
