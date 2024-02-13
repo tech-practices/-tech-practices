@@ -39,5 +39,5 @@ Este repositório tem como objetivo armazenar os códigos e anotações feitas d
 ### Professor Mestre :email: [Alexandre "Montanha" de Oliveira](mailto:alexandre@educacaodigitalizada.com.br)
 
 - Curriculo Lattes: :mortar_board:[https://lattes.cnpq.br/7137425845019062](https://lattes.cnpq.br/7137425845019062)
-- LinkedId: :man: :necktie: [https://www.linkedin.com/in/professor-montanha/](https://www.linkedin.com/in/professor-montanha/)
-- Site Educacao Digitalizada: [https://educacaodigitalizada.com.br](https://educacaodigitalizada.com.br)
+- LinkedId: :briefcase: [https://www.linkedin.com/in/professor-montanha/](https://www.linkedin.com/in/professor-montanha/)
+- Site Educacao Digitalizada: :globe_with_meridians: [https://educacaodigitalizada.com.br](https://educacaodigitalizada.com.br)
