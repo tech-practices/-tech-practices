@@ -7,8 +7,8 @@ Este repositório tem como objetivo armazenar os códigos e anotações feitas d
 ## Tópicos
 
 - Programação 101
-  - [x] Sequencial
-  - [ ] Estrutura de Decisão
+  - [x] Sequencial [Repositório](https://github.com/tech-practices/-tech-practices/tree/main/programacao101/sequencia)
+  - [ ] Estrutura de Decisão [Repositório](https://github.com/tech-practices/-tech-practices/tree/main/programacao101/decisao)
   - [ ] Estrutura de Repetição
   - [ ] Vetores e Matrizes e TADs
   - [ ] Funções e Procedimentos
@@ -36,8 +36,8 @@ Este repositório tem como objetivo armazenar os códigos e anotações feitas d
 
 ## Autor
 
-### Professor Mestre [Alexandre "Montanha" de Oliveira](mailto:alexandre@educacaodigitalizada.com.br)
+### Professor Mestre :email: [Alexandre "Montanha" de Oliveira](mailto:alexandre@educacaodigitalizada.com.br)
 
-- Curriculo Lattes: [https://lattes.cnpq.br/7137425845019062](https://lattes.cnpq.br/7137425845019062)
-- LinkedId: [https://www.linkedin.com/in/professor-montanha/](https://www.linkedin.com/in/professor-montanha/)
+- Curriculo Lattes: :mortar_board:[https://lattes.cnpq.br/7137425845019062](https://lattes.cnpq.br/7137425845019062)
+- LinkedId: :man: :necktie: [https://www.linkedin.com/in/professor-montanha/](https://www.linkedin.com/in/professor-montanha/)
 - Site Educacao Digitalizada: [https://educacaodigitalizada.com.br](https://educacaodigitalizada.com.br)
