@@ -22,7 +22,7 @@ A saída deve conter uma linha com a quantidade de tinta necessária para pintar
 2
 1.5
 ========
-Tinta Necessária: 5.7 litros
+Tinta Necessária: 5.05 litros
 <<<<<<<<
 
 >>>>>>>>
@@ -32,7 +32,7 @@ Tinta Necessária: 5.7 litros
 3
 2
 ========
-Tinta Necessária: 8.5 litros
+Tinta Necessária: 6 litros
 <<<<<<<<
 ```
 
